@@ -18,4 +18,4 @@ spec:
         - name: nginx-container
           image: nginx:latest
           ports:
-            - containerPort: 8060
+            - containerPort: 806070
